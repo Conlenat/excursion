@@ -1,0 +1,33 @@
+body {
+  background-color:black;
+  text-align:center;
+}
+
+h1 {
+  font-family:Verdana;
+  color:white;
+  text-align:center;
+  font-size:42px;
+  font-weight:300;
+}
+
+.maintitle {
+  font-size:50px;
+  font-weight:normal;
+}
+
+.download {
+  color:Aquamarine;
+  font-size:16px;
+  text-align:center;
+}
+
+.excursion {
+  color:gray;
+  font-size:21px;
+}
+
+.copyright {
+  color:gray;
+  text-align:right;
+}
